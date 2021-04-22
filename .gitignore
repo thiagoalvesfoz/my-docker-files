@@ -1,0 +1,4 @@
+mysql/
+network/
+node/node_modules/
+package-*.json
